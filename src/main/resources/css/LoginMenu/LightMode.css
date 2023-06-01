@@ -1,0 +1,27 @@
+#loginMenuPane {
+    -fx-background-color: white;
+}
+
+#gameNameLabel {
+    -fx-text-fill: white;
+}
+
+#gameNameCircle {
+    -fx-fill: black;
+}
+
+
+TextField, PasswordField {
+    -fx-text-fill: white;
+    -fx-background-color: black;
+    -fx-prompt-text-fill: gray;
+}
+
+Button {
+    -fx-text-fill: white;
+    -fx-background-color: black;
+}
+
+#responseMessageLabel {
+    -fx-text-fill: black;
+}

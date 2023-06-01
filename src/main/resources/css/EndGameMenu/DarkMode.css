@@ -1,0 +1,17 @@
+#gameNameLabel {
+    -fx-text-fill: black;
+}
+
+#gameNameCircle {
+    -fx-fill: white;
+}
+
+Button {
+    -fx-text-fill: black;
+    -fx-background-color: white;
+}
+
+Label {
+    -fx-text-fill: white;
+}
+

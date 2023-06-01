@@ -1,0 +1,86 @@
+#loginMenuPane {
+    -fx-max-height: 800px;
+    -fx-max-width: 400px;
+    -fx-min-height: 800px;
+    -fx-min-width: 400px;
+}
+
+#gameNameLabel {
+    -fx-font: bold 300px "Lateef";
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+    -fx-min-width: 300px;
+    -fx-max-width: 300px;
+    -fx-translate-x: 50px;
+    -fx-translate-y: 15px;
+}
+
+TextField, PasswordField {
+    -fx-min-width: 200px;
+    -fx-max-width: 200px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-font: 20px "Lateef";
+}
+
+#usernameField {
+    -fx-translate-x: 100px;
+    -fx-translate-y: 500px;
+}
+
+#passwordField {
+    -fx-translate-x: 100px;
+    -fx-translate-y: 550px;
+}
+
+#passwordTextField {
+    -fx-translate-x: 100px;
+    -fx-translate-y: 550px;
+}
+
+#showPassCheckBox {
+    -fx-translate-x: 310px;
+    -fx-translate-y: 561px;
+}
+
+Button {
+    -fx-min-width: 85px;
+    -fx-max-width: 85px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-font: bold 20px "Lateef";
+}
+
+#loginButton {
+    -fx-translate-x: 110px;
+    -fx-translate-y: 600px;
+}
+
+#signUpButton {
+    -fx-translate-x: 205px;
+    -fx-translate-y: 600px;
+}
+
+#guestButton {
+    -fx-translate-x: 157.5px;
+    -fx-translate-y: 650px;
+
+}
+
+#game1v1Button {
+    -fx-translate-x: 157.5px;
+    -fx-translate-y: 700px;
+}
+
+#responseMessageLabel {
+    -fx-min-width: 400px;
+    -fx-max-width: 400px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-translate-y: 750px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+    -fx-font: 20px "Lateef";
+}
+
+

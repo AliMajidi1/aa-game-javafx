@@ -1,0 +1,22 @@
+#gamePane {
+    -fx-min-width: 400px;
+    -fx-max-width: 400px;
+    -fx-min-height: 800px;
+    -fx-max-height: 800px;
+}
+
+#scoreLabel1, #scoreLabel2 {
+    -fx-font: 60px "Lateef";
+}
+
+
+#remainingBallsLabel1, #remainingBallsLabel2 {
+    -fx-font: 40px "Lateef";
+    -fx-background-color: #ff8080;
+}
+
+#degreeLabel {
+    -fx-translate-y: 2px;
+    -fx-translate-x: 10px;
+    -fx-font: 40px "Lateef";
+}

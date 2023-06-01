@@ -1,0 +1,12 @@
+#settingMenuPane {
+    -fx-background-color: black;
+}
+
+Button, ToggleButton {
+    -fx-text-fill: black;
+    -fx-background-color: white;
+}
+
+Label {
+    -fx-text-fill: white;
+}

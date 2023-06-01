@@ -1,0 +1,8 @@
+#leaderBoardMenuPane {
+    -fx-background-color: white;
+}
+
+Button {
+    -fx-text-fill: white;
+    -fx-background-color: black;
+}

@@ -1,0 +1,16 @@
+#pauseMenuPane {
+    -fx-background-color: black;
+}
+
+#gameNameLabel {
+    -fx-text-fill: black;
+}
+
+#gameNameCircle {
+    -fx-fill: white;
+}
+
+Button {
+    -fx-text-fill: black;
+    -fx-background-color: white;
+}

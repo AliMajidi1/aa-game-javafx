@@ -1,0 +1,16 @@
+#mainMenuPane {
+    -fx-background-color: white;
+}
+
+#gameNameLabel {
+    -fx-text-fill: white;
+}
+
+#gameNameCircle {
+    -fx-fill: black;
+}
+
+Button {
+    -fx-text-fill: white;
+    -fx-background-color: black;
+}

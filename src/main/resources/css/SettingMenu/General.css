@@ -1,0 +1,159 @@
+#settingMenuPane {
+    -fx-min-width: 400px;
+    -fx-max-width: 400px;
+    -fx-min-height: 800px;
+    -fx-max-height: 800px;
+}
+
+#ballCountSlider {
+    -fx-min-width: 200px;
+    -fx-max-width: 200px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-translate-x: 100px;
+    -fx-translate-y: 50px;
+}
+
+Label {
+    -fx-min-width: 400px;
+    -fx-max-width: 400px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+    -fx-font: 20px "Lateef";
+}
+
+#ballCountTitleLabel {
+    -fx-translate-y: 25;
+}
+
+#ballCountLabel {
+    -fx-translate-y: 73;
+}
+
+Button {
+    -fx-min-width: 150px;
+    -fx-max-width: 150px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-font: bold 20px "Lateef";
+}
+
+ToggleButton {
+    -fx-min-width: 80px;
+    -fx-max-width: 80px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-font: bold 20px "Lateef";
+}
+
+#backButton {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 730px;
+}
+
+#map1ToggleButton, #map2ToggleButton, #map3ToggleButton {
+    -fx-translate-y: 140px;
+}
+
+#map1ToggleButton {
+    -fx-translate-x: 60px;
+}
+
+#map2ToggleButton {
+    -fx-translate-x: 160px;
+}
+
+#map3ToggleButton {
+    -fx-translate-x: 260px;
+}
+
+#selectedMapLabel {
+    -fx-translate-y: 190px;
+}
+
+#difficulty1ToggleButton, #difficulty2ToggleButton, #difficulty3ToggleButton {
+    -fx-min-width: 110px;
+    -fx-max-width: 110px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-font: bold 20px "Lateef";
+    -fx-translate-y: 240px;
+}
+
+#difficulty1ToggleButton {
+    -fx-translate-x: 25px;
+}
+
+#difficulty2ToggleButton {
+    -fx-translate-x: 145px;
+}
+
+#difficulty3ToggleButton {
+    -fx-translate-x: 265px;
+}
+
+#selectedDifficultyLabel {
+    -fx-translate-y: 290px;
+}
+
+#volumeSlider {
+    -fx-translate-x: 10px;
+    -fx-translate-y: 15px;
+}
+
+#lightModeToggleButton, #darkModeToggleButton {
+    -fx-min-width: 150px;
+    -fx-max-width: 150px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-translate-y: 338px;
+}
+
+#lightModeToggleButton {
+    -fx-translate-x: 25px;
+}
+
+#darkModeToggleButton {
+    -fx-translate-x: 225px;
+}
+
+#persianToggleButton, #englishToggleButton {
+    -fx-translate-y: 410px;
+}
+
+#englishToggleButton {
+    -fx-translate-x: 60px;
+}
+
+#persianToggleButton {
+    -fx-translate-x: 260px;
+}
+
+#shootKeyToggleButton, #freezeKeyToggleButton {
+    -fx-min-width: 200px;
+    -fx-max-width: 200px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+}
+
+#shootKeyToggleButton {
+    -fx-translate-y: 490px;
+    -fx-translate-x: 100px;
+}
+
+#shootKeyLabel {
+    -fx-translate-y: 540px;
+}
+
+#freezeKeyToggleButton {
+    -fx-translate-y: 600px;
+    -fx-translate-x: 100px;
+}
+
+#freezeKeyLabel {
+    -fx-translate-y: 650px;
+}
+
+

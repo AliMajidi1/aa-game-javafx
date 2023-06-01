@@ -1,0 +1,54 @@
+#mainMenuPane {
+    -fx-max-height: 800px;
+    -fx-max-width: 400px;
+    -fx-min-height: 800px;
+    -fx-min-width: 400px;
+}
+
+#gameNameLabel {
+    -fx-font: bold 300px "Lateef";
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+    -fx-min-width: 300px;
+    -fx-max-width: 300px;
+    -fx-translate-x: 50px;
+    -fx-translate-y: 15px;
+}
+
+Button {
+    -fx-min-width: 150px;
+    -fx-max-width: 150px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-font: bold 20px "Lateef";
+}
+
+#exitButton {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 730px;
+}
+
+#settingButton {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 670px;
+}
+
+#leaderBoardButton {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 610px;
+}
+
+#profileButton {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 550px;
+}
+
+#continueButton {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 490px;
+}
+
+#newGameButton {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 430px;
+}

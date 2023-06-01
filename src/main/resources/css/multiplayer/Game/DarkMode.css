@@ -1,0 +1,19 @@
+#gamePane {
+    -fx-background-color: black;
+}
+
+Circle {
+    -fx-fill: white;
+}
+
+#auxiliaryCircle {
+    -fx-fill: black;
+}
+
+#scoreLabel1, #scoreLabel2 {
+    -fx-text-fill: black;
+}
+
+#remainingBallsLabel1, #remainingBallsLabel2, #degreeLabel {
+    -fx-text-fill: white;
+}

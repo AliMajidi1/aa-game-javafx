@@ -1,0 +1,28 @@
+#profileMenuPane {
+    -fx-background-color: black;
+}
+
+#avatarCircle {
+    -fx-fill: white;
+}
+
+
+Button {
+    -fx-text-fill: black;
+    -fx-background-color: white;
+}
+
+TextField, PasswordField {
+    -fx-text-fill: black;
+    -fx-background-color: white;
+    -fx-prompt-text-fill: gray;
+}
+
+#changeUserPassPane {
+    -fx-background-color: black;
+    -fx-border-color: white;
+}
+
+#changeUserPassResponseMessageLabel {
+    -fx-text-fill: white;
+}

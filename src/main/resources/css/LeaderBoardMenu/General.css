@@ -1,0 +1,77 @@
+#leaderBoardMenuPane {
+    -fx-min-width: 400px;
+    -fx-max-width: 400px;
+    -fx-min-height: 800px;
+    -fx-max-height: 800px;
+}
+
+#leaderBoardTableView {
+    -fx-translate-x: 5.5px;
+    -fx-translate-y: 45px;
+    -fx-min-width: 390px;
+    -fx-max-width: 390px;
+    -fx-min-height: 443px;
+    -fx-max-height: 443px;
+    -fx-font: 20px "Lateef";
+    -fx-fixed-cell-size: 40px;
+}
+
+Button {
+    -fx-min-width: 150px;
+    -fx-max-width: 150px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-font: bold 20px "Lateef";
+}
+
+#userColumn {
+    -fx-pref-width: 137px;
+}
+
+#difficultyColumn {
+    -fx-pref-width: 100px;
+}
+
+#scoreColumn, #timeColumn {
+    -fx-pref-width: 75px;
+}
+
+#tableViewRow1 {
+    -fx-background-color: #00ff00;
+
+}
+
+#tableViewRow2 {
+    -fx-background-color: #00a800;
+
+}
+
+#tableViewRow3 {
+    -fx-background-color: #008600;
+
+}
+
+#backButton {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 745px;
+}
+
+#difficulty3Button {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 685px;
+}
+
+#difficulty2Button {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 625px;
+}
+
+#difficulty1Button {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 565px;
+}
+
+#allDifficultyButton {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 505px;
+}

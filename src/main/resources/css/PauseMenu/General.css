@@ -1,0 +1,73 @@
+#pauseMenuPane {
+    -fx-max-height: 800px;
+    -fx-max-width: 400px;
+    -fx-min-height: 800px;
+    -fx-min-width: 400px;
+}
+
+#gameNameLabel {
+    -fx-font: bold 300px "Lateef";
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+    -fx-min-width: 300px;
+    -fx-max-width: 300px;
+    -fx-translate-x: 50px;
+    -fx-translate-y: -25px;
+}
+
+Button {
+    -fx-min-width: 150px;
+    -fx-max-width: 150px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-font: bold 20px "Lateef";
+}
+
+#shootKeyLabel, #freezeKeyLabel {
+    -fx-min-width: 400px;
+    -fx-max-width: 400px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+    -fx-font: bold 20px "Lateef";
+}
+
+#freezeKeyLabel {
+    -fx-translate-y: 25px;
+}
+
+#saveButton {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 735px;
+}
+
+#restartButton {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 675px;
+}
+
+#exitButton {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 615px;
+}
+
+#muteButton {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 555px;
+}
+
+#music3Button {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 495px;
+}
+
+#music2Button {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 435px;
+}
+
+#music1Button {
+    -fx-translate-x: 125px;
+    -fx-translate-y: 375px;
+}
