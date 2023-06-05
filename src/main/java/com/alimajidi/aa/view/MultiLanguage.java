@@ -51,7 +51,7 @@ public enum MultiLanguage {
     SHOOT_KEY_GUIDE("Your custom shoot key", "دکمه پرتاب شما"),
     FREEZE_KEY_GUIDE("Your custom freeze key", "دکمه فریز شما"),
     PLAYER1_SHOOT_KEY_GUIDE("Player 1 shoot key", "دکمه پرتاب بازیکن اول"),
-    PLAYER2_SHOOT_KEY_GUIDE("Player ۲ shoot key", "دکمه پرتاب بازیکن دوم"),
+    PLAYER2_SHOOT_KEY_GUIDE("Player 2 shoot key", "دکمه پرتاب بازیکن دوم"),
     BOTH_FREEZE_KEY_GUIDE("Both players freeze key", "دکمه فریز هر دو بازیکن"),
     MUSIC1("Music 1", "موسیقی ۱"),
     MUSIC2("Music 2", "موسیقی ۲"),
